@@ -1,0 +1,76 @@
+#EXTINF:-1 ,凤凰中文
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+https://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
+https://play-flive.ifeng.com/live/06OLEGEGM4G.flv
+http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221228057/index.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+https://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+https://play-flive.ifeng.com/live/06OLEEWQKN4.flv
+http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221228098/index.m3u8
+#EXTINF:-1 ,凤凰香港
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8 
+http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8 
+http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb1c]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221228060/index.m3u8
+#EXTINF:-1 ,凤凰香港.备用
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
+http://php.jdshipin.com/fhhk.php
+http://php.17186.eu.org/phtv/fhhk.m3u8
+http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
+http://gg.gg/fhwsxg
+http://gg.gg/fhwshk
+#EXTINF:-1 ,凤凰中文.备用
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+http://43.141.130.51/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
+http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+http://php.17186.eu.org/phtv/fhzw.m3u8
+http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/fhchinese/index.m3u8
+http://[2409:8087:3428:20:500::1015]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
+http://[2409:8087:3428:20:500::1015]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+http://[2409:8c02:21c:60::2b]/live2.rxip.sc96655.com/live/test1_4000.m3u8
+https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+#EXTINF:-1 ,凤凰中文.备用
+https://edge2.laotv.la/live/PhxChinese/index.m3u8
+http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+https://qist.cc/live/sc.php?id=fhws
+https://qist.cc/live/xg.php?id=fhws
+http://www.terrykang.cn:5678/sxg.php?id=test1_4000
+http://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
+rtmp://playtv-live.ifeng.com/live/06OLEGEGM4G
+http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 ,凤凰资讯.备用
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+http://43.141.130.51/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
+http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+http://php.17186.eu.org/phtv/fhzx.m3u8
+http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/fhzixun/index.m3u8
+http://[2409:8087:3428:20:500::1015]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
+http://[2409:8c02:21c:60::2b]/live2.rxip.sc96655.com/live/test2_4000.m3u8
+https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+#EXTINF:-1 ,凤凰资讯.备用
+https://edge2.laotv.la/live/PhoenixNews/index.m3u8
+http://39.134.18.194/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+https://qist.cc/live/sc.php?id=fhzx
+https://qist.cc/live/xg.php?id=fhzx
+http://www.terrykang.cn:5678/sxg.php?id=test2_4000
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
+rtmp://playtv-live.ifeng.com/live/06OLEEWQKN4
+http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
